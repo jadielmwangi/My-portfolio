@@ -1,0 +1,26 @@
+
+ nav{
+    text-align: right;
+    background-color: aliceblue;
+}
+nav li{
+display:inline-block;
+margin-left: 30px;
+padding-bottom: 30px;
+padding-top: 30px;
+padding-right: 40px;
+}
+nav a:hover{
+    color:red;
+}
+
+h2{
+    color: red;
+}
+body{
+    text-align: center;
+    font-weight: 700;                   
+    font-size: x-large;
+    font-style: normal;
+    background-color: darkgray;
+}
