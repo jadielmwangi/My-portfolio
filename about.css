@@ -17,11 +17,12 @@ nav a:hover{
     float: left;
 }
 body{
+    
     text-align: center;
     font-weight: 800;                   
     font-size: x-large;
     font-style: normal;
-    background-color: darkgray;
+    background-color: rgb(138, 127, 127);
 }
 
 
@@ -30,7 +31,9 @@ body{
 }
 
 h2, h3, h4, h5{
- color:red;
+ color:rgb(224, 210, 210);
+ font-style: italic;
+ font-size: 35px;
 }
 .software,.page,.first,.soft{
     color: blue;
