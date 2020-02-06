@@ -15,7 +15,11 @@ nav a:hover{
 }
 
 h2{
-    color: red;
+    color:rgb(224, 210, 210);
+}
+h3{
+    color:rgb(224, 210, 210);
+    font-style: italic;
 }
 body{
     text-align: center;
