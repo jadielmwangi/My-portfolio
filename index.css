@@ -29,6 +29,9 @@ h1{
 }
 body{
     background-color: darkgray;
+    background-image: url(/home/jediel/Desktop/Final-website/image/lap.jpg);
+    background-repeat: no-repeat;
+
 }
 
 #img{
