@@ -30,3 +30,6 @@ body{
 h2, h3, h4, h5{
  color:red;
 }
+.software,.page,.first{
+    color: blue;
+}

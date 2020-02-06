@@ -1,6 +1,9 @@
  nav{
     text-align: right;
     background-color: aliceblue;
+    font-weight: 800;                   
+    font-size: x-large;
+    font-style: normal;
 }
 nav li{
 display:inline-block;
@@ -38,3 +41,6 @@ body{
 
     float: left;
 } 
+.born{
+    color: blue;
+}

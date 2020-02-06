@@ -17,6 +17,7 @@ nav a:hover{
     width: 50px;
     text-align: center;
     text-decoration: none;
+    margin-right: 40px;
 
 }
 
@@ -26,21 +27,22 @@ nav a:hover{
 .fa-facebook{
     background: #55ACEE;
     color:white;
-    border-radius: 15px;
+    border-radius: 50px;
 }
 .fa-twitter{
     background: #55ACEE;
     color:white;
-    border-radius: 15px;
+    border-radius: 50px;
 }
 body{
-    text-align: center;
     font-weight: 800;                   
     font-size: x-large;
     font-style: normal;
     background-color: darkgray;
+    text-align: center;
 
 }
 h2{
     color: red;
+
 }
