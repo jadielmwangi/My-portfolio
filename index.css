@@ -44,3 +44,7 @@ body{
 .born{
     color: blue;
 }
+.responsive{
+    width:100%;
+    height:auto;
+}
