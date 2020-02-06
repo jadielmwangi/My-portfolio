@@ -20,13 +20,13 @@ h1{
     font-weight: 900;
     font-size: xx-large;
     font-style: italic;
-    color: red;
+    color:black;
 }
 #bio{
     text-align: center;
         font-weight: 800;
         font-size: xx-large;
-        font-style: normal;
+        font-style: italic;
           
     
 }
@@ -38,8 +38,12 @@ body{
 }
 
 #img{
+    height:400px;
+    width:500px;
+    border-radius:600px;
+    margin-left:400px;
+    /* float: left; */
 
-    float: left;
 } 
 .born{
     color: blue;
