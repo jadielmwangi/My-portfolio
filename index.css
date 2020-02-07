@@ -32,19 +32,20 @@ h1{
 }
 body{
     background-color: darkgray;
-    background-image: url(/home/jediel/Desktop/Final-website/image/lap.jpg);
-    background-repeat: no-repeat;
 
 }
-
+.colum{
+    float: left;
+    width: 600px;
+}
 #img{
-    height:400px;
+    height:600px;
     width:500px;
-    border-radius:600px;
-    margin-left:400px;
+    border-radius:500px;
+    margin-left:200px;
 
 } 
-.born{
+.soft{
     color: blue;
 }
 .responsive{
