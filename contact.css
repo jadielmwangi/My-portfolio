@@ -4,9 +4,10 @@ nav{
 }
 nav li{
 display:inline-block;
-margin-left: 30px;
+margin-right: 30px;
 padding-bottom: 30px;
 padding-top: 30px;
+padding-right: 40px
 }
 nav a:hover{
     color:red;
