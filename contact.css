@@ -44,10 +44,7 @@ body{
     font-weight: 800;                   
     font-size: x-large;
     font-style: normal;
-    background-image: url(/home/jediel/Desktop/Final-website/image/simu.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: darkgray;
+    background-color:rgb(138, 127, 127);
     text-align: center;
 
 }
