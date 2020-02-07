@@ -29,3 +29,7 @@ body{
     
     background-color: darkgray;
 }
+.proj1{
+    float: left;
+    width:700px
+}
