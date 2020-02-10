@@ -5,24 +5,26 @@ This Repository contains code for my portfolio website.
 ## Project Author
 Jadiel Mwangi
 ## Project Description 
-This is a Personal Project.Talks more about my skills,my educational background,my interests and the project I have done so far. It contains an about section where i have listed my skills and my hobbies, a project section where you get the link to my project ,my contacts and a footer at the bottom.
+* This is a Personal Project.Talks more about my skills,my educational background,my interests and the project I have done so far.   It contains an about section where I have listed my skills and my hobbies, a project section where you get the link to my      project ,my contacts and a footer at the bottom.
 
 ## Setup Instructions
 * git clone https://jadielmwangi.github.io/My-portfolio/ on your terminal.
-* Navigate to the portfolio folder through cd Documents/moringa-prep/portfolio
+* Navigate to the portfolio folder through cd Desktop/Final-website/portfolio
 * Open the folder in your favourite editor,for vscode,is code . and for atom, atom .
 * Open the index.html in your browser
 ## Technologies used
--HTML to create a webpage framework.
--CSS used to styles the page
+* HTML to create a webpage framework.
+* CSS used to styles the page
 
 ## Live link
-- Click to get my Github link.
-- https://jadielmwangi.github.io/My-portfolio/
+* Click to get my Github link.
+*  https://jadielmwangi.github.io/My-portfolio/
 ## Contact Details
-- Email:jedielmwangi@gmail.com
-- Phone No: 0727 867 684
-- Github: jadielmwangi
+* Email:jedielmwangi@gmail.com
+* Phone No: 0727 867 684
+* Github: jadielmwangi
+
+
 ## Copyright and licence information
 
 MIT License
